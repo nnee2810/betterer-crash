@@ -1,0 +1,14 @@
+{
+  "name": "betterer-crash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "betterer": "betterer"
+  },
+  "devDependencies": {
+    "@betterer/cli": "^5.3.6",
+    "betterer": "^1.0.2",
+    "typescript": "^4"
+  }
+}
